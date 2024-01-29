@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: dbb77d0f-dd5c-4c56-9631-f42ad3d18358
+      url: 'https://trippbishop.quarto.pub/trippquartosite'
